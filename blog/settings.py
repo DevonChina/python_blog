@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'article', # 文章模块的名称（article app）
-    'django.contrib.admin',
+    'django.contrib.admin', # Djando后台模块
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
